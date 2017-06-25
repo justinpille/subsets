@@ -1,5 +1,5 @@
 {
-  "name": "new-crap",
+  "name": "subsets",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://justinpille.github.io/new-crap",
+  "homepage": "https://justinpille.github.io/subsets",
   "eslintConfig": {
     "extends": "react-app"
   }
